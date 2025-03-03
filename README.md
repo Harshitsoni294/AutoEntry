@@ -29,7 +29,7 @@ AutoEntry is a **MERN stack-based** smart gate access system where security pers
 ## 🏗 Installation & Setup  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/autoentry.git
+   git clone https://github.com/Harshitsoni294/autoentry.git
    cd autoentry
    ```
 2. Install dependencies:  
