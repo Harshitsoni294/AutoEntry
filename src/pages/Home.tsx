@@ -106,6 +106,7 @@ function Home() {
         </h1>
         
         <div className="flex gap-4 mb-8">
+          <p>Studend ID:</p>
           <input
             type="text"
             value={studentId}
