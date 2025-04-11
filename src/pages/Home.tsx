@@ -110,7 +110,7 @@ function Home() {
             type="text"
             value={studentId}
             onChange={(e) => setStudentId(e.target.value)}
-            placeholder="Enter Student ID"
+            placeholder="Try std01 or std02"
             className="flex-1 px-4 py-2 bg-gray-700/50 border border-gray-600 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-white placeholder-gray-400"
           />
           <button
