@@ -107,7 +107,7 @@ function Home() {
         
         <div className="flex gap-4 mb-8">
           <div>
-            <p style="color: white;">Studend ID:</p>
+            <p style={{ color: 'white' }}>Student ID:</p>
           </div>
           <input
             type="text"
